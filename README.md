@@ -8,7 +8,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">SafwanGanz</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz">Anees♕</a> to make it public
     <br>
        | © |
         Reserved |
