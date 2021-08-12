@@ -1,6 +1,6 @@
-<div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/67726326?v=4" width="300" height="300"/>
-  <p align="center">
+
+
+
 <a href="#"><img title="TOXIC-ALIEN" src="https://img.shields.io/badge/ALIEN ALFA V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
@@ -15,7 +15,7 @@ Project created by <a href="https://github.com/farhan-dqz">SafwanGanz</a> to mak
     <br> 
 </p>
 
-----
+---
 
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
