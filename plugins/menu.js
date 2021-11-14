@@ -41,7 +41,7 @@ const defaultMenu = {
 ┃%emos│ *ᴛɪᴍᴇ* : \`\`\`%time\`\`\`
 ┃%emos│ *ᴜᴘᴛɪᴍᴇ* : \`\`\`%uptime (%muptime)\`\`\`
 ┃%emos│ *ᴅᴀᴛᴀʙᴀsᴇ* : \`\`\`%rtotalreg of %totalreg\`\`\`
-┃%emos│ 
+┃%emos│ *Wa.me/919562264858*
 ┃%emos│
 ┃%emos│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃%emos│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
